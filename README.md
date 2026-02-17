@@ -35,7 +35,7 @@
 ### 🔹 Cloud Platforms & Security
 [![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)](https://aws.amazon.com/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)](https://cloud.google.com/)
-[![Cloud Security](https://img.shields.io/badge/Cloud%20Security-Cybersecurity%20%7C%20IAM%20%7C%20Compliance-red?logo=security&logoColor=white&style=for-the-badge)](https://www.csoonline.com/article/3444520/what-is-cloud-security.html)
+[![Cloud Security](https://img.shields.io/badge/Cloud%20Security-Cybersecurity%20%7C%20IAM%20%7C%20Compliance-red?logo=security&logoColor=white&style=for-the-badge)](https://cloud.google.com/security)
 
 
 ---
